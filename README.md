@@ -23,11 +23,11 @@
 
 ## Tech Stack
 
-**Enterprise:** .NET 9, C#, Entity Framework, Blazor, Azure, REST APIs, CQRS  
+**Enterprise:** .NET 10, C#, Entity Framework, Blazor, Azure, REST APIs, CQRS  
 **AI/ML:** Python, Ollama, LangChain, RAG pipelines, MCP servers, TensorFlow Lite  
 **Edge/Embedded:** Python, OpenCV, computer vision, sensor integration  
 **Hardware:** Jetson Orin Nano, Raspberry Pi 5, various sensor arrays  
-**Environment:** Pop!_OS, System76 Thelio (RTX 3080), Linux-first approach
+**Environment:** Pop!_OS, System76 Thelio Mira (RTX 3080), Linux-first approach
 
 ## Why This Path
 
