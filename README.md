@@ -37,7 +37,7 @@ The factory floor is about to get a lot smarter. Companies will need people who 
 
 ## Writing
 
-I write about the journey from enterprise software to industrial systems on [Substack](#) — lessons learned, architecture decisions, and project breakdowns.
+I write about the journey from enterprise software to industrial systems on [Substack](https://michaelalber.substack.com/) — lessons learned, architecture decisions, and project breakdowns.
 
 ## Let's Connect
 
